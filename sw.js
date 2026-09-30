@@ -22,9 +22,7 @@ var APP_SHELL = [
 
   './manifest.json',
 
-  './assets/SMO-ColoredGlobe.png',
-  './assets/pwa-192.png',
-  './assets/pwa-512.png'
+  './assets/SMO-ColoredGlobe.png'
 ];
 
 self.addEventListener('install', function (event) {
