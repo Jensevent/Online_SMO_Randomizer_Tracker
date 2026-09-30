@@ -11,11 +11,11 @@ var APP_SHELL = [
 
   './style.css',
 
-  './app.js',
+  './app.js?v=8',
   './sync.js',
-  './apc-data.js',
-  './spoiler-log.js',
-  './firebase-progress-sync.js',
+  './apc-data.js?v=3',
+  './spoiler-log.js?v=1',
+  './firebase-progress-sync.js?v=2',
   './firebase-live-sync.js',
 
   './loading_zone_dictionary.json',
