@@ -10,8 +10,16 @@
   "theme_color": "#181818",
   "icons": [
     {
-      "src": "assets/SMO-ColoredGlobe.png",
-      "type": "image/png"
-    }
+      "src": "assets/Cappy192.png",
+      "type": "image/png",
+      "sizes": "192x192" 
+      
+    },
+    {
+      "src": "assets/Cappy512.png",
+      "type": "image/png",
+      "sizes": "512x512" 
+      
+    },
   ]
 }
